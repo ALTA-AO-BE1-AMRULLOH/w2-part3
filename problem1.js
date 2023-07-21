@@ -1,4 +1,4 @@
-//prime  number
+//prime  number menggunakan square root
 function primeNumber(number) {
     console.time("PRIME NUMBER")
     if (number <= 1) {
