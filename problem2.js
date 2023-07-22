@@ -16,7 +16,7 @@ function munculSekali(angka) {
       if (isUnique) {
         result += currentDigit;
       }
-    }
+    } console.log("angka:", angka);
   
     return result.split('').map(Number);
   }
